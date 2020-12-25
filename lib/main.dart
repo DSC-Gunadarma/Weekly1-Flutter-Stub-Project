@@ -14,8 +14,8 @@ class MyApp extends StatelessWidget {
 
 // TODO 1: Tambahkan MaterialApp sebagai root aplikasi
 // TODO 2 : Buat file baru bernama splash_page.dart
-// TODO 3 : Tambahkan folder baru bernama assets untuk logo dsc
-// TODO 4 : Update pubspec.ymal
+// TODO 3 : Tambahkan folder baru bernama images untuk menampung gambar
+// TODO 4 : Update pubspec.ymal agar dapat membaca asset gambar
 // TODO 5 : Tambahkan file constant.dart sebagai base UI
 // TODO 6 : Design UI login_page.dart
 // TODO  7 : Tambahkan file home_page.dart
